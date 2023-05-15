@@ -1,4 +1,10 @@
 name: SweetyHub
 author: SlowFeew
 version: 1.0
-main: fun.slowfeew.hub.Main
+main: fun.slowfeew.Main
+commands:
+  opengui:
+    description: ""
+depend:
+  - Vault
+  - ProtocolLib
